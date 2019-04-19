@@ -16,7 +16,7 @@ twitter: eminem
 ---
 ```
 
-4. Upload an image at the root of your folder (e.g. `authors/firstname-lastname/avatar.jpg`)
+4. Upload an image at the root of your folder (e.g. `authors/lebron-james/avatar.jpg`)
 
 5. Submit a PR
 
