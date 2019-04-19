@@ -8,11 +8,11 @@
 
 ```
 ---
-name: Marshall
+name: Lebron James
 avatar: './avatar.jpg'
-bio: 'I rap yo'
-github: eminem
-twitter: eminem
+bio: 'I am the King'
+github: https://github.com/theking
+twitter: https://twitter.com/theking
 ---
 ```
 
