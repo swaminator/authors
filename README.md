@@ -2,7 +2,7 @@
 
 1. Fork this repo
 
-2. Add a folder in the root of your repo with your firstname-lastname e.g. `lebron-james`
+2. Add a folder in the root of this repo with your firstname-lastname e.g. `lebron-james`
 
 3. Add an `index.md` with the following frontmatter:
 
