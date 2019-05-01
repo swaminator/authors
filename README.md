@@ -3,7 +3,7 @@
 
 1. Fork this repo
 
-2. Add a folder in the root of `content/contributors` with your firstname-lastname e.g. `arya-stark`
+2. Add a folder in the root of with your firstname-lastname e.g. `arya-stark`
 
 3. Add an `index.md` with the following frontmatter:
 
