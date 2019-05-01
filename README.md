@@ -1,24 +1,24 @@
 # To add yourself as an author
 
+
 1. Fork this repo
 
-2. Add a folder in the root of this repo with your firstname-lastname e.g. `lebron-james`
+2. Add a folder in the root of `content/contributors` with your firstname-lastname e.g. `arya-stark`
 
 3. Add an `index.md` with the following frontmatter:
 
 ```
 ---
-name: Lebron James
+name: Arya Stark
 avatar: './avatar.jpg'
-bio: 'I am the King'
-github: https://github.com/theking
-twitter: https://twitter.com/theking
+bio: 'Not today.'
+github: azorahai
+twitter: azorahai
 ---
 ```
 
-4. Upload an image at the root of your folder (e.g. `authors/lebron-james/avatar.jpg`)
+4. Upload an image at the root of your folder (e.g. `content/contributors/arya-stark/avatar.jpg`)
 
-5. Submit a PR
+5. Add the [post](https://github.com/aws-amplify/community/tree/master/content/posts) or [event](https://github.com/aws-amplify/community/tree/master/content/events) you would like to contribute to the repo.
 
-
-Thanks! :)
+5. Submit the PR.
